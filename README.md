@@ -1,7 +1,12 @@
 # Huggingface Project
-Trying out novel models from huggingface
+Goal: Learning how to utilize novel models from huggingface
 
-This is very much a WiP (Work in Progress)
+This project is very much a WiP (Work in Progress)
+
+Steps to follow:
+1. Create a small example of a huggingface model used in notebook
+2. Make a very lightweight webapp of this example
+3. ?
 
 Resources
 * https://huggingface.co/
